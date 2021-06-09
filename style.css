@@ -1,0 +1,13 @@
+#part2{
+    display: none;
+}
+
+#cars{
+    box-shadow: 1px 1px;
+}
+.tt{
+    display: block;
+    height: 25px;
+    width: 65px !important;
+    
+}
